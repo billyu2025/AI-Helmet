@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../BBS/rebar_ordering_mvp_Qwen"
+		},
+		{
+			"name": "AI_Helmet_Vibration_Motor",
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"python-envs.defaultEnvManager": "ms-python.python:system"
+	}
+}
